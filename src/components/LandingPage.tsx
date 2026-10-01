@@ -357,6 +357,10 @@ export default function LandingPage({ live }: { live: boolean }) {
             © 2026 RashMum UK CIC • Charity #1192847 • Made with love for UK mums 💛
             <br />
             hello@rashmum.uk • 24/7 Helpline: 0800 123 4567 • If you or baby are unsafe, call 999 or Samaritans 116 123.
+            <br />
+            <a href="#/admin" className="mt-2 inline-block underline decoration-zinc-300 hover:text-brand-500">
+              Volunteer Hub →
+            </a>
           </div>
         </div>
       </footer>
